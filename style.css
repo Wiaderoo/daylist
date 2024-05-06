@@ -1,0 +1,19 @@
+:root{
+    --main_color: #ced3dc;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 10px;
+}
+
+#add_task_container{
+    height: 300px;
+    max-width: 100%;
+    background-color: var(--main_color);
+}
